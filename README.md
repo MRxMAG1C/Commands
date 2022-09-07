@@ -5,4 +5,4 @@ Displays all "sm_" commands the client have access to in a menu
 v.1.0 | Initial release
 
 ### Usage
-/lowgrav `in chat` || !lowgrav `in chat` || sm_lowgrav `in console`
+/commands `in chat` || !commands `in chat` || sm_commands `in console`
