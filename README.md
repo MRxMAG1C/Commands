@@ -1,5 +1,5 @@
 # Commands
-Lists SourceMod commands accessible to the client in a menu.
+Lists SourceMod commands accessible to the client in a menu
 
 ## Versions
 v.1.0 | Initial release
