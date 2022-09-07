@@ -5,7 +5,7 @@
 
 public Plugin myinfo ={
 	name = "List SourceMod Commands",
-	author = "denormal, shanapu (Edit by MRcMAG1C)",
+	author = "denormal, shanapu (Edit by MRxMAG1C)",
 	description = "Lists SourceMod commands accessible to the client in a menu.",
 	version = "1.2",
 	url = "hjemezez.dk"
